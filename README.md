@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GlendonK
-- 👀 I’m interested in Blockchain, Mobile Dev, Web Dev, ML and AI
-- 🌱 I’m currently learning Go, Solidity, React, GraphQL
+- 👀 I’m interested in Web3, EVM, DeFi.
+- 🌱 I’m currently learning GraphQL.
 
 <!---
 GlendonK/GlendonK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
