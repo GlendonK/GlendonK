@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GlendonK
-- 👀 I’m interested in Web3, EVM, DeFi.
-- 🌱 I’m currently learning GraphQL.
+- 👀 I’m interested in Web3, DeFi.
+- 🌱 I’m currently learning GraphQL, Rust, etc...
 
 <!---
 GlendonK/GlendonK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
